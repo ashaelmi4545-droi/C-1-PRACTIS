@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aisha\\source\\repos\\TIJAABO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB4FF36-9354-488A-A356-0E1E077AD9BD}|TIJAABO\\TIJAABO.csproj|C:\\Users\\Aisha\\source\\repos\\TIJAABO\\tijaabo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCB4FF36-9354-488A-A356-0E1E077AD9BD}|TIJAABO\\TIJAABO.csproj|solutionrelative:tijaabo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCB4FF36-9354-488A-A356-0E1E077AD9BD}|TIJAABO\\TIJAABO.csproj|c:\\users\\aisha\\source\\repos\\tijaabo\\tijaabo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCB4FF36-9354-488A-A356-0E1E077AD9BD}|TIJAABO\\TIJAABO.csproj|solutionrelative:tijaabo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 135,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Aisha\\source\\repos\\TIJAABO\\TIJAABO\\Form1.cs",
+              "RelativeDocumentMoniker": "TIJAABO\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aisha\\source\\repos\\TIJAABO\\TIJAABO\\Form1.cs",
+              "RelativeToolTip": "TIJAABO\\Form1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAMwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T15:28:23.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aisha\\source\\repos\\TIJAABO\\TIJAABO\\Form1.cs",
+              "RelativeDocumentMoniker": "TIJAABO\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aisha\\source\\repos\\TIJAABO\\TIJAABO\\Form1.cs [Design]",
+              "RelativeToolTip": "TIJAABO\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T14:58:21.541Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

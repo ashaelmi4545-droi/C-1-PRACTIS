@@ -1,0 +1,11 @@
+C:\Users\Aisha\source\repos\TIJAABO\TIJAABO\bin\Debug\TIJAABO.exe.config
+C:\Users\Aisha\source\repos\TIJAABO\TIJAABO\bin\Debug\TIJAABO.exe
+C:\Users\Aisha\source\repos\TIJAABO\TIJAABO\bin\Debug\TIJAABO.pdb
+C:\Users\Aisha\source\repos\TIJAABO\TIJAABO\obj\Debug\TIJAABO.csproj.AssemblyReference.cache
+C:\Users\Aisha\source\repos\TIJAABO\TIJAABO\obj\Debug\TIJAABO.Form1.resources
+C:\Users\Aisha\source\repos\TIJAABO\TIJAABO\obj\Debug\TIJAABO.Properties.Resources.resources
+C:\Users\Aisha\source\repos\TIJAABO\TIJAABO\obj\Debug\TIJAABO.csproj.GenerateResource.cache
+C:\Users\Aisha\source\repos\TIJAABO\TIJAABO\obj\Debug\TIJAABO.csproj.CoreCompileInputs.cache
+C:\Users\Aisha\source\repos\TIJAABO\TIJAABO\obj\Debug\TIJAABO.exe
+C:\Users\Aisha\source\repos\TIJAABO\TIJAABO\obj\Debug\TIJAABO.pdb
+C:\Users\Aisha\source\repos\TIJAABO\TIJAABO\obj\Debug\TIJAABO.exe.config
