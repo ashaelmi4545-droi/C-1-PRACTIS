@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aisha\\OneDrive\\Desktop\\Food Assement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15692B50-8E05-4F9F-A863-2EB0C0F352CB}|Food Assement\\Food Assement.csproj|c:\\users\\aisha\\onedrive\\desktop\\food assement\\food assement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15692B50-8E05-4F9F-A863-2EB0C0F352CB}|Food Assement\\Food Assement.csproj|solutionrelative:food assement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15692B50-8E05-4F9F-A863-2EB0C0F352CB}|Food Assement\\Food Assement.csproj|c:\\users\\aisha\\onedrive\\desktop\\food assement\\food assement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{15692B50-8E05-4F9F-A863-2EB0C0F352CB}|Food Assement\\Food Assement.csproj|solutionrelative:food assement\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aisha\\OneDrive\\Desktop\\Food Assement\\Food Assement\\Form1.cs",
+              "RelativeDocumentMoniker": "Food Assement\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aisha\\OneDrive\\Desktop\\Food Assement\\Food Assement\\Form1.cs [Design]",
+              "RelativeToolTip": "Food Assement\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T12:57:44.988Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "bb6b498f-05a7-44b8-97c7-8554fcfcee3b",
+        "Display": 0,
+        "X": 11,
+        "Y": 59,
+        "Width": 1003,
+        "Height": 507,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Aisha\\OneDrive\\Desktop\\Food Assement\\Food Assement\\Form1.cs",
+              "RelativeDocumentMoniker": "Food Assement\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aisha\\OneDrive\\Desktop\\Food Assement\\Food Assement\\Form1.cs",
+              "RelativeToolTip": "Food Assement\\Form1.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwDoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T13:01:56.972Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
