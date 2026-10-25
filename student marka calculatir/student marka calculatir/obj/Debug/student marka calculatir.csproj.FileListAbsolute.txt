@@ -1,0 +1,21 @@
+C:\Users\Abdalla\source\repos\student marka calculatir\student marka calculatir\bin\Debug\student marka calculatir.exe.config
+C:\Users\Abdalla\source\repos\student marka calculatir\student marka calculatir\bin\Debug\student marka calculatir.exe
+C:\Users\Abdalla\source\repos\student marka calculatir\student marka calculatir\bin\Debug\student marka calculatir.pdb
+C:\Users\Abdalla\source\repos\student marka calculatir\student marka calculatir\obj\Debug\student marka calculatir.csproj.AssemblyReference.cache
+C:\Users\Abdalla\source\repos\student marka calculatir\student marka calculatir\obj\Debug\student_marka_calculatir.Form1.resources
+C:\Users\Abdalla\source\repos\student marka calculatir\student marka calculatir\obj\Debug\student_marka_calculatir.Properties.Resources.resources
+C:\Users\Abdalla\source\repos\student marka calculatir\student marka calculatir\obj\Debug\student marka calculatir.csproj.GenerateResource.cache
+C:\Users\Abdalla\source\repos\student marka calculatir\student marka calculatir\obj\Debug\student marka calculatir.csproj.CoreCompileInputs.cache
+C:\Users\Abdalla\source\repos\student marka calculatir\student marka calculatir\obj\Debug\student marka calculatir.exe
+C:\Users\Abdalla\source\repos\student marka calculatir\student marka calculatir\obj\Debug\student marka calculatir.pdb
+C:\Users\HP\Desktop\1234\1234\student marka calculatir\student marka calculatir\bin\Debug\student marka calculatir.exe.config
+C:\Users\HP\Desktop\1234\1234\student marka calculatir\student marka calculatir\bin\Debug\student marka calculatir.exe
+C:\Users\HP\Desktop\1234\1234\student marka calculatir\student marka calculatir\bin\Debug\student marka calculatir.pdb
+C:\Users\HP\Desktop\1234\1234\student marka calculatir\student marka calculatir\obj\Debug\student marka calculatir.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\1234\1234\student marka calculatir\student marka calculatir\obj\Debug\student marka calculatir.exe.config
+C:\Users\HP\Desktop\1234\1234\student marka calculatir\student marka calculatir\obj\Debug\student_marka_calculatir.Form1.resources
+C:\Users\HP\Desktop\1234\1234\student marka calculatir\student marka calculatir\obj\Debug\student_marka_calculatir.Properties.Resources.resources
+C:\Users\HP\Desktop\1234\1234\student marka calculatir\student marka calculatir\obj\Debug\student marka calculatir.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\1234\1234\student marka calculatir\student marka calculatir\obj\Debug\student marka calculatir.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\1234\1234\student marka calculatir\student marka calculatir\obj\Debug\student marka calculatir.exe
+C:\Users\HP\Desktop\1234\1234\student marka calculatir\student marka calculatir\obj\Debug\student marka calculatir.pdb
